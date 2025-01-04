@@ -18,7 +18,7 @@ Chaque élément a un certain nombre de caractéristiques, par exemple :
 Une fois que vous avez fait votre composition vous pouvez lancer un combat.
 Un combat gagné fait monter dans le classement et rapporte des pièces, ce qui permet d'acheter des modules.
 
-## essayer le jeu
+## Essayer le jeu
 
 Pour essayer le jeu:
 - Téléchargez le serveur (vous aurez besoin de python).
@@ -28,3 +28,5 @@ Pour essayer le jeu:
 
 Si vous voulez tester tous les modules sans les acheter utilisez le compte id: admin et mdp: admin
 qui est disponible dans la bdd du serveur (fichier data.csv)
+
+Pour changer l'adresse ip du serveur, modifiez la dans le code.
