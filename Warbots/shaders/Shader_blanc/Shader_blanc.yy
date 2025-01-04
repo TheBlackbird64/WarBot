@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"Shader_blanc",
+  "name":"Shader_blanc",
+  "parent":{
+    "name":"_general",
+    "path":"folders/_general.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

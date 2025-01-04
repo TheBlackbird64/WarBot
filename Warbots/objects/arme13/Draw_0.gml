@@ -1,0 +1,1 @@
+draw_sprite_ext(sprite_index, image_index, x, y, image_xscale, image_yscale, image_angle, make_color_rgb(portee/get_module_attaque_stats(13, "portee")*200, portee/get_module_attaque_stats(13, "portee")*200, 255), image_alpha)

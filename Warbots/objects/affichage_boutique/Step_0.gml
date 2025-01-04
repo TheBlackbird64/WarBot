@@ -1,0 +1,1 @@
+part_emitter_burst(part_sys2, part_emit, part_affichage_boutique, -2)

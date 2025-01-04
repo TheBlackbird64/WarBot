@@ -1,0 +1,1 @@
+set_scale(image_xscale) //ne sert a rien

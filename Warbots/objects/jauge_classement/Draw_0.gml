@@ -1,0 +1,10 @@
+draw_self()
+nb_classement = global.classement
+draw_sprite_ext(sprite_index, 1, x, y, image_xscale*round(nb_classement%100)/100, image_yscale, 0, c_white, 1)
+draw_sprite_ext(S_pieces_xp, 2, x, y, image_xscale/7, image_yscale/7, 0, c_white, 1)
+draw_set_font(F_principale)
+draw_set_halign(fa_center)
+var rang = floor(nb_classement/100)
+draw_text(x+200, y-10, string(round(nb_classement%100)) + "/100")
+draw_text(x, y-10, rang)
+draw_set_halign(fa_left)

@@ -1,0 +1,1 @@
+fond_selection.image_index = 2

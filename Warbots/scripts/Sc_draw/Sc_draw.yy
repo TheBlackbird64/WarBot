@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Sc_draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sc_draw",
+  "parent":{
+    "name":"anim_fin_jeu",
+    "path":"folders/jeu/anim_fin_jeu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

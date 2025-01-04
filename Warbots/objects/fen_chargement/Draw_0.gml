@@ -1,0 +1,15 @@
+draw_set_color(c_black)
+draw_set_alpha(0.5)
+draw_rectangle(0, 0, room_width, room_height, false)
+draw_set_alpha(1)
+draw_set_color(c_white)
+draw_self()
+
+draw_sprite_ext(S_charge_icon, 0, x, y-40, image_xscale+0.5, image_yscale+0.5, rotation, c_white, 1)
+draw_sprite_ext(S_charge_icon, 1, x, y-40, image_xscale, image_yscale, 360-rotation, c_white, 1)
+
+draw_set_halign(fa_center)
+draw_set_valign(fa_middle)
+draw_text(x, y+20, texte)
+draw_set_halign(fa_left)
+draw_set_valign(fa_top)

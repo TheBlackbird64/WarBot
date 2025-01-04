@@ -1,0 +1,1 @@
+compteur_chargement = 0

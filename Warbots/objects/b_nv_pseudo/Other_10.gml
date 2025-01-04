@@ -1,0 +1,1 @@
+instance_create_depth(683, 384, depth-10, fen_nv_pseudo)

@@ -1,0 +1,1 @@
+global.focus_boutons -= 1

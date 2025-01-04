@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Sc_stats_modules",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sc_stats_modules",
+  "parent":{
+    "name":"modules",
+    "path":"folders/modules.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

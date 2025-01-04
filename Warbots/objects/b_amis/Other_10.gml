@@ -1,0 +1,1 @@
+fen_err("Cette fonction est indisponible.")

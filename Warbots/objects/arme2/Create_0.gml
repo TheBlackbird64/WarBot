@@ -1,0 +1,11 @@
+get_module_attaque_stats(2, "setup")
+set_scale(0.2)
+
+part_arme2 = part_type_create()
+part_type_shape(part_arme2, pt_shape_explosion)
+part_type_color2(part_arme2, $555555, $CCCCCC)
+part_type_life(part_arme2, 10, 20)
+part_type_alpha2(part_arme2, 0.6, 0.3)
+part_type_size(part_arme2, 0.4, 0.7, 0, 0)
+part_type_direction(part_arme2, 0, 359, 0, 0)
+part_type_speed(part_arme2, 0.3, 2, 0, 0)

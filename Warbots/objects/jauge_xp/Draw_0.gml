@@ -1,0 +1,8 @@
+draw_self()
+draw_sprite_ext(sprite_index, 1, x, y, image_xscale*(get_xp(false, false, nb_xp)/global.tab_nv[get_xp(true, true, nb_xp)-1]), image_yscale, 0, c_white, 1)
+draw_sprite_ext(S_pieces_xp, 1, x, y, image_xscale/7, image_yscale/7, 0, c_white, 1)
+draw_set_font(F_principale)
+draw_set_halign(fa_center)
+draw_text(x+200, y-10, get_xp(false, true, nb_xp))
+draw_text(x, y-10, get_xp(true, true, nb_xp))
+draw_set_halign(fa_left)

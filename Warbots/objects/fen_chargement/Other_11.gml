@@ -1,0 +1,1 @@
+if widget_affiche {create_widget(b_annuler, 683, 470, image_xscale)}

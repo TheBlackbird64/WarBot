@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Sc_partie",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sc_partie",
+  "parent":{
+    "name":"jeu",
+    "path":"folders/jeu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

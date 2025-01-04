@@ -1,0 +1,1 @@
+equipe = _parent.equipe
